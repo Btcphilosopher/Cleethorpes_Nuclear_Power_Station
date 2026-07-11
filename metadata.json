@@ -1,0 +1,6 @@
+{
+  "name": "Cleethorpes Nuclear Power Station Dashboard",
+  "description": "An interactive web-based dashboard for the proposed Cleethorpes Nuclear Power Station, detailing its vision, economic impact, clean energy output, technology, safety, and community investment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
